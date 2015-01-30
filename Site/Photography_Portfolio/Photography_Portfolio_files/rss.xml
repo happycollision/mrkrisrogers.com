@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Headshots</title>
+    <link>http://www.mrkrisrogers.com/Site/Photography_Portfolio/Photography_Portfolio.html</link>
+    <description>Headshots</description>
+    <item>
+      <title>Ladies</title>
+      <link>http://www.mrkrisrogers.com/Site/Photography_Portfolio/Pages/Ladies.html</link>
+      <guid isPermaLink="false">d8d6aec5-dcc2-45dd-ac47-c38588aee30f</guid>
+    </item>
+    <item>
+      <title>Gentlemen</title>
+      <link>http://www.mrkrisrogers.com/Site/Photography_Portfolio/Pages/Gentlemen.html</link>
+      <guid isPermaLink="false">dfa67bc4-2bde-40a6-9ed0-47f33ceb40d6</guid>
+    </item>
+    <item>
+      <title>Studio Shots</title>
+      <link>http://www.mrkrisrogers.com/Site/Photography_Portfolio/Pages/Studio_Shots.html</link>
+      <guid isPermaLink="false">df41743c-d448-4011-a41d-5b6b5c07d26b</guid>
+    </item>
+  </channel>
+</rss>
